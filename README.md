@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on developer and devops.
 - 🌱 I’m currently working PHP, Javascript, NodeJs, Docker, Git, SCRUM.
 - 📫 How to reach me: rogersduarte29@gmail.com
-- 😄 Pronouns: he/him
+
 
 <div align="center">
   <a href="https://github.com/rogers29">
